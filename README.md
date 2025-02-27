@@ -1,6 +1,8 @@
 # Secure File Encryption
 
-![Secure File Encryption Banner](https://via.placeholder.com/1200x300.png?text=Secure+File+Encryption)  
+<p align="center">
+  <img src="screenshot.png" alt="DeepUI Screenshot" width="700">
+</p> 
 *Encrypt your files with confidence—simple, sleek, and secure.*
 
 Welcome to **Secure File Encryption**, a lightweight desktop tool built to keep your sensitive files safe with just a few clicks. Whether you’re safeguarding personal documents or protecting business secrets, this app combines modern design with robust AES encryption to give you peace of mind. No bloat, no fuss—just a clean, professional experience.
